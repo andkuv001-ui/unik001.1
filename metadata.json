@@ -1,0 +1,6 @@
+{
+  "name": "Уникализатор описаний",
+  "description": "Инструмент автозагрузки для создания, подсветки, проверки и предпросмотра шаблонов уникализации описаний объявлений.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
